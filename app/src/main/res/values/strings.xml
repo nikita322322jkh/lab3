@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="text_name">Имя: Никита</string>
+    <string name="text_name2">Возраст: 18</string>
+    <string name="text_name3">Специализация: Android-Разработчик</string>
+    <string name="text_name4">Фото</string>
+    <string name="text_name5">Проекты</string>
+    <string name="text_name6">Достижения</string>
+    <string name="text_name7">Я - начинающий Android-разработчик, студент БТПИТ, живу в Грибановке. Мой стек - php, java, html</string>
+    <string name="text_name8">Биография</string>
+</resources>
